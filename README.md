@@ -4,5 +4,5 @@ A new Flutter project named BMI Calculator. In this app, you can calculate your 
 
 ## Getting Started
 
-![BMI](https://user-images.githubusercontent.com/78247019/178479094-d09da614-41e4-4696-b5d7-3cf1d84cf278.png = 250x250)
-![Home Page](https://user-images.githubusercontent.com/78247019/178479553-740dceff-a28e-4e2c-aaf5-0fa18ecb02a1.png = 250x250)
+![Home Page](https://user-images.githubusercontent.com/78247019/178479553-740dceff-a28e-4e2c-aaf5-0fa18ecb02a1.png)
+![Result Page](https://user-images.githubusercontent.com/78247019/178480041-2ee6fb25-7b84-4289-aec1-0bd765de8bd9.png)
